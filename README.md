@@ -1,4 +1,4 @@
-# Repositório de Atualizações – App VPN
+# Repositório de Atualizações – App GHSNET-VPN
 
 Este repositório é utilizado **exclusivamente para o envio e versionamento de arquivos de atualização** do aplicativo VPN.
 
@@ -23,8 +23,3 @@ Todos os arquivos disponibilizados aqui passam por um **processo de criptografia
 - Distribuição segura de updates para o aplicativo VPN
 - Integração com sistemas automatizados de atualização
 
----
-
-## 📁 Estrutura dos Arquivos
-
-A estrutura pode variar conforme a versão do aplicativo, mas geralmente inclui:
